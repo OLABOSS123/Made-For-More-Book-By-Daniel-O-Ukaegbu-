@@ -1252,7 +1252,7 @@ h3 em {
 
     .nav-container {
         min-height: 75px;
-       max-height: 200;
+       max-height: 200px;
     }
 
     .menu-toggle {
