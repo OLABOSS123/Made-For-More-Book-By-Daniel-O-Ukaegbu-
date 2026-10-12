@@ -1251,7 +1251,7 @@ h3 em {
     }
 
     .nav-container {
-        min-height: 76px;
+        min-height: 300px;
     }
 
     .menu-toggle {
