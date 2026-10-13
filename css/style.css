@@ -1264,7 +1264,7 @@ h3 em {
     .navigation {
         display: none;
 
-        position: fixed;
+         
         inset: 76px 0 0;
 
         background: var(--paper);
