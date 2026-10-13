@@ -1,981 +1,1508 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <meta name="description"
-          content="Discover Made for More: Discovering God's Purpose for Your Life by Daniel O. Ukaegbu.">
-
-    <meta name="theme-color" content="#173d32">
-
-    <title>Made for More | Daniel O. Ukaegbu</title>
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap"
-          rel="stylesheet">
-
-    <link rel="stylesheet" href="css/style.css">
-
-    <script src="js/script.js" defer></script>
-</head>
-
-<body>
-
-    <!-- NAVIGATION -->
-    <header class="site-header" id="home">
-
-        <div class="container nav-container">
-
-            <a href="#home" class="brand">
-                <span class="brand-title">MADE FOR MORE</span>
-                <span class="brand-subtitle">DANIEL O. UKAEGBU</span>
-            </a>
-
-            <button class="menu-toggle"
-                    aria-label="Open navigation"
-                    aria-expanded="false"
-                    aria-controls="navigation">
-
-                <span></span>
-                <span></span>
-                <span></span>
-
-            </button>
-
-            <nav class="navigation" id="navigation">
-
-                <a href="#book">The Book</a>
-
-                <a href="#author">The Author</a>
-
-                <a href="#testimonies">Testimonies</a>
-
-                <a href="#ministry">Ministry</a>
-
-                <a href="#contact">Contact</a>
-
-                <a class="nav-button"
-                   href="https://selar.com/z09ro51557"
-                   target="_blank"
-                   rel="noopener noreferrer">
-
-                    Get Your Copy ↗
-
-                </a>
-
-            </nav>
-
-        </div>
-
-    </header>
-
-
-    <main>
-
-        <!-- HERO SECTION -->
-        <section class="hero">
-
-            <div class="container hero-container">
-
-                <div class="hero-content">
-
-                    <p class="eyebrow">
-                        A BOOK ABOUT PURPOSE, CALLING & FAITH
-                    </p>
-
-                    <h1>
-                        You Were Created
-                        For <em>More.</em>
-                    </h1>
-
-                    <h2 class="hero-book-title">
-                        MADE FOR MORE
-                    </h2>
-
-                    <p class="hero-subtitle">
-                        Discovering God's Purpose for Your Life
-                    </p>
-
-                    <p class="hero-description">
-
-                        Move beyond personal ambition and begin
-                        discovering the life you believe God
-                        created you to live.
-
-                    </p>
-
-                    <div class="hero-buttons">
-
-                        <a href="https://selar.com/z09ro51557"
-                           target="_blank"
-                           rel="noopener noreferrer"
-                           class="button button-gold">
-
-                            Get Your Copy ↗
-
-                        </a>
-
-                        <a href="#book" class="text-link">
-
-                            Discover the Book ↓
-
-                        </a>
-
-                    </div>
-
-                    <div class="hero-note">
-
-                        <span>✦</span>
-
-                        <p>
-                            Your life has a purpose worth discovering.
-                        </p>
-
-                    </div>
-
-                </div>
-
-
-                <!-- BOOK COVER PLACEHOLDER -->
-                <div class="hero-visual">
-
-                    <div class="hero-orbit orbit-one"></div>
-                    <div class="hero-orbit orbit-two"></div>
-
-                    <div class="hero-book">
-
-                        <div class="book-cover">
-                     
-                            <img style="width: 40rem;" src="images/book cover.png" alt="Made for More book cover" srcset="">
-                     
-                              
-                        </div>
-
-                    </div>
-
-                    <div class="hero-stamp">
-
-                        <span>LIVE</span>
-
-                        <strong>
-                            ON<br>PURPOSE
-                        </strong>
-
-                        <span>✦</span>
-
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-        <!-- INTRODUCTION STRIP -->
-        <section class="intro-strip">
-
-            <div class="container intro-inner">
-
-                <span class="gold-star">✦</span>
-
-                <p>
-                    Your life is not an accident.
-                    <em>There is purpose to discover.</em>
-                </p>
-
-                <a href="#book">Explore the book →</a>
-
-            </div>
-
-        </section>
-
-
-        <!-- BOOK SECTION -->
-        <section class="section book-section" id="book">
-
-            <div class="container book-layout">
-
-                <div class="section-content">
-
-                    <p class="eyebrow">THE BOOK</p>
-
-                    <h2>
-                        Discover the Life
-                        You Were <em>Made For.</em>
-                    </h2>
-
-                    <p class="section-description">
-
-                        What if your life is about more than
-                        your personal ambitions?
-
-                        <br><br>
-
-                        <strong>
-                            Made for More: Discovering God's
-                            Purpose for Your Life
-                        </strong>
-
-                        invites you to explore the deeper
-                        questions surrounding your existence,
-                        calling, and God-given purpose.
-
-                    </p>
-
-                    <a href="https://selar.com/z09ro51557"
-                       target="_blank"
-                       rel="noopener noreferrer"
-                       class="button button-green">
-
-                        Buy the Book ↗
-
-                    </a>
-
-                </div>
-
-
-                <!-- BOOK SLIDESHOW -->
-                <div class="slideshow"
-                     data-slideshow
-                     data-interval="5000">
-
-                    <div class="slides">
-
-                        <article class="slide is-active">
-
-                            <div class="book-slide book-slide-one">
-                             
-                                <img src="images/Book Image image bg.jpeg" alt="" srcset="">
-                                
-                            </div>
-
-                            <p class="slide-caption">
-                                Explore what it means to live intentionally.
-                            </p>
-
-                        </article>
-
-                         <article class="slide">
-
-                            <div class="book-slide book-slide-two">
-
-                                <img src="images/Book Image 1.jpeg" alt="" srcset="">
-                            </div>
-
-                            <p class="slide-caption">
-                                Your story can make a difference.
-                            </p>
-
-                        </article>
-
-
-                        <article class="slide">
-
-                            <div class="book-slide book-slide-three">
-
-                                <img src="images/Book Image Description.jpeg" alt="" srcset="">
-                            </div>
-
-                            <p class="slide-caption">
-                                Your story can make a difference.
-                            </p>
-
-                        </article>
-
-                        <article class="slide">
-
-                            <div class="book-slide book-slide-six">
-
-                                <img src="images/Book Image 4.jpeg" alt="" srcset="">
-                            </div>
-
-                            <p class="slide-caption">
-                                Your story can make a difference.
-                            </p>
-
-                        </article>
-
-                        <article class="slide">
-
-                            <div class="book-slide book-slide-four">
-
-                                <img src="images/Book Image 3.jpeg" alt="" srcset="">
-                            </div>
-
-                            <p class="slide-caption">
-                                Your story can make a difference.
-                            </p>
-
-                        </article>
-
-                        <article class="slide">
-
-                            <div class="book-slide book-slide-five">
-
-                                <img src="images/Book Image 2.jpeg" alt="" srcset="">
-                            </div>
-
-                            <p class="slide-caption">
-                                Your story can make a difference.
-                            </p>
-
-                        </article>
-
-                    </div>
-
-                    <div class="slide-controls">
-
-                        <button class="slide-arrow prev"
-                                type="button"
-                                aria-label="Previous book slide">
-
-                            ←
-
-                        </button>
-
-                        <div class="slide-dots"></div>
-
-                        <button class="slide-arrow next"
-                                type="button"
-                                aria-label="Next book slide">
-
-                            →
-
-                        </button>
-
-                    </div>
-
-                    <p class="placeholder-note">
-                        Replace these designs with the official
-                        book cover photographs.
-                    </p>
-
-                </div>
-
-            </div>
-
-
-            <!-- BOOK BENEFITS -->
-            <div class="container book-benefits">
-
-                <article>
-
-                    <span class="benefit-number">01</span>
-
-                    <h3>Ask Deeper Questions</h3>
-
-                    <p>
-                        Reflect on why you are here and what
-                        gives your life direction.
-                    </p>
-
-                </article>
-
-
-                <article>
-
-                    <span class="benefit-number">02</span>
-
-                    <h3>Discover Your Purpose</h3>
-
-                    <p>
-                        Explore practical ways to seek and
-                        pursue your God-given calling.
-                    </p>
-
-                </article>
-
-
-                <article>
-
-                    <span class="benefit-number">03</span>
-
-                    <h3>Live With Intention</h3>
-
-                    <p>
-                        Take meaningful steps toward a life
-                        that makes a difference.
-                    </p>
-
-                </article>
-
-            </div>
-
-        </section>
-
-
-        <!-- AUTHOR SECTION -->
-        <section class="section author-section" id="author">
-
-            <div class="container author-layout">
-
-
-                <!-- AUTHOR SLIDESHOW -->
-                <div class="slideshow"
-                     data-slideshow
-                     data-interval="6500">
-
-                    <div class="slides">
-
-                        <article class="slide is-active">
-
-                            <div class="author-slide author-slide-one">
-
-                                  <img style="height: 200px;  transform: scale( 2.2);" src="images/Profile 1.jpeg" alt="" srcset="">
-
-                            </div>
-
-                            <p class="slide-caption">
-                                Meet the author.
-                            </p>
-
-                        </article>
-
-
-                        <article class="slide">
-
-                            <div class="author-slide author-slide-two">
-
-                                  <img style="height: 200px;  transform: scale( 2.4);" src="images/Profile 3.jpeg" alt="" srcset="">
-
-                            </div>
-
-                            <p class="slide-caption">
-                                A journey shaped by faith.
-                            </p>
-
-                        </article>
-
-
-                        <article class="slide">
-
-                            <div class="author-slide author-slide-three">
-
-                                <img style="height: 200px;  transform: scale( 1.8);" src="images/Profle 2.jpeg" alt="" srcset="">
-
-                            </div>
-
-                            <p class="slide-caption">
-                                Discover the story behind the book.
-                            </p>
-
-                        </article>
-
-                    </div>
-
-                    <div class="slide-controls">
-
-                        <button class="slide-arrow prev"
-                                type="button"
-                                aria-label="Previous author slide">
-
-                            ←
-
-                        </button>
-
-                        <div class="slide-dots"></div>
-
-                        <button class="slide-arrow next"
-                                type="button"
-                                aria-label="Next author slide">
-
-                            →
-
-                        </button>
-
-                    </div>
-
-                    
-
-                    <p class="placeholder-note">
-                        Add Daniel's official photographs here.
-
-
-                    </p>
-
-                </div>
-
-
-                <!-- AUTHOR BIOGRAPHY -->
-                <div class="author-content">
-
-                    <p class="eyebrow">
-                        THE PERSON BEHIND THE PAGES
-                    </p>
-
-                    <h2>
-                        Meet <em>Daniel</em><br>
-                        O. Ukaegbu.
-                    </h2>
-
-                    <blockquote>
-
-                        "You were created for more than your
-                        ambitions. You were created for God's purpose."
-
-                    </blockquote>
-
-                    <p>
-                        Daniel O. Ukaegbu is a servant of Jesus
-                        Christ called to the apostolic, prophetic,
-                        and evangelistic ministry.
-                    </p>
-
-                    <p>
-                        He is the Founder and President of
-                        The Secret Place Ministry Worldwide,
-                        also known as Fulfilling Your Destiny
-                        International, founded in 2014 in Gusau,
-                        Zamfara State, Nigeria.
-                    </p>
-
-                    <p>
-                        A trained journalist who turned to
-                        evangelism, Daniel is also a gifted writer,
-                        dramatist, worshipper, and singer with
-                        a passion for souls and intimacy with God.
-                    </p>
-
-                    <p>
-                        In 2014, he left journalism and movie
-                        pursuits to answer God's call. Through
-                        ministry and writing, he seeks to inspire
-                        people to grow spiritually and discover
-                        God's purpose for their lives.
-                    </p>
-
-                    <a href="#contact" class="text-link">
-                        Connect with the Author →
-                    </a>
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-        <!-- TESTIMONIES SECTION -->
-        <section class="section testimonies-section"
-                 id="testimonies">
-
-            <div class="container">
-
-                <div class="center-heading">
-
-                    <p class="eyebrow">
-                        SHARED DURING MINISTRY
-                    </p>
-
-                    <h2>
-                        Testimonies of<br>
-                        <em>Faith and Hope.</em>
-                    </h2>
-
-                    <p>
-                        Personal accounts shared during ministry
-                        gatherings, describing experiences that
-                        brought hope and encouragement.
-                    </p>
-
-                </div>
-
-
-                <div class="testimony-grid">
-
-
-                    <!-- TESTIMONY ONE -->
-                    <article class="testimony-card">
-
-                        <span class="quote-mark">“</span>
-
-                        <p class="testimony-location">
-                            MONROVIA, LIBERIA
-                        </p>
-
-                        <h3>
-                            17 Years of Back Pain
-                        </h3>
-
-                        <p>
-                            A 17-year-old girl reportedly shared
-                            that she had experienced severe back
-                            problems since childhood and struggled
-                            to bend freely.
-                        </p>
-
-                        <p>
-                            Following healing prayers, she said
-                            she was able to bend her back freely
-                            and expressed joy and gratitude to God.
-                        </p>
-
-                        <span class="testimony-footer">
-                            A testimony of hope
-                        </span>
-
-                    </article>
-
-
-                    <!-- TESTIMONY TWO -->
-                    <article class="testimony-card featured">
-
-                        <span class="quote-mark">“</span>
-
-                        <p class="testimony-location">
-                            MONROVIA, LIBERIA
-                        </p>
-
-                        <h3>
-                            Relief From Back and Leg Pain
-                        </h3>
-
-                        <p>
-                            At Kingdom Restoration Ministries
-                            International, a woman reportedly
-                            described seven months of back pain
-                            and difficulty moving her right leg.
-                        </p>
-
-                        <p>
-                            After prayer, she said the pain had
-                            disappeared and she could bend her
-                            back and move her leg more freely.
-                        </p>
-
-                        <span class="testimony-footer">
-                            A story of renewed hope
-                        </span>
-
-                    </article>
-
-
-                    <!-- TESTIMONY THREE -->
-                    <article class="testimony-card">
-
-                        <span class="quote-mark">“</span>
-
-                        <p class="testimony-location">
-                            PERSONAL TESTIMONY
-                        </p>
-
-                        <h3>
-                            Chest Pain Reportedly Eased
-                        </h3>
-
-                        <p>
-                            A 14-year-old shared that they had
-                            experienced chest pain since childhood.
-                        </p>
-
-                        <p>
-                            Following healing prayers, the young
-                            person reported that the pain had
-                            disappeared and expressed gratitude
-                            to Jesus.
-                        </p>
-
-                        <span class="testimony-footer">
-                            Shared with gratitude
-                        </span>
-
-                    </article>
-
-                </div>
-
-                <p class="testimony-disclaimer">
-                    These summaries reflect personal testimonies
-                    as provided by the author. They are not
-                    independently verified medical findings,
-                    medical advice, or a substitute for professional
-                    medical care.
-                </p>
-
-            </div>
-
-        </section>
-
-
-        <!-- MINISTRY GALLERY -->
-        <section class="section ministry-section"
-                 id="ministry">
-
-            <div class="container">
-
-                <div class="ministry-heading">
-
-                    <div>
-
-                        <p class="eyebrow">
-                            BEYOND THE PAGES
-                        </p>
-
-                        <h2>
-                            A Message Carried<br>
-                            <em>to the Nations.</em>
-                        </h2>
-
-                    </div>
-
-                    <p>
-                        Through The Secret Place Ministry Worldwide,
-                        Daniel and his team share the Gospel
-                        across Nigeria and beyond.
-                    </p>
-
-                </div>
-
-
-                <!-- MINISTRY SLIDESHOW -->
-                <div class="slideshow"
-                     data-slideshow
-                     data-interval="8000">
-
-                    <div class="slides">
-
-                        <article class="slide is-active">
-
-                            <div class="ministry-slide ministry-one">
-
-                            <img class="ministry" src="images/ministry 1.jpeg" alt="Ministry event" srcset="">
-                                
-                            </div>
-
-                            <p class="slide-caption">
-                                Preaching and outreach.
-                            </p>
-
-                        </article>
-
-
-                        <article class="slide">
-
-                            <div class="ministry-slide ministry-two">
-
-                                <img class=" ministry" src="images/ministry 2.jpeg" alt="Ministry event" srcset="">
-
-                            </div>
-
-                            <p class="slide-caption">
-                                Worship and prayer gatherings.
-                            </p>
-
-                        </article>
-
-
-                        <article class="slide">
-
-                            <div class="ministry-slide ministry-three">
-
-                                <img class="ministry" src="images/ministry 3.jpeg" alt="Ministry event" srcset="">
-
-                            </div>
-
-                            <p class="slide-caption">
-                                Ministry and community.
-                            </p>
-
-                        </article>
-
-
-                        <article class="slide">
-
-                            <div class="ministry-slide ministry-four">
-
-                               <img class="ministry" src="images/ministry 4.jpeg" alt="Ministry event" srcset="">
-                            </div>
-
-                            <p class="slide-caption">
-                                Sharing the message beyond borders.
-                            </p>
-
-                        </article>
-
-                    </div>
-
-                    <div class="slide-controls">
-
-                        <button class="slide-arrow prev"
-                                type="button"
-                                aria-label="Previous ministry slide">
-
-                            ←
-
-                        </button>
-
-                        <div class="slide-dots"></div>
-
-                        <button class="slide-arrow next"
-                                type="button"
-                                aria-label="Next ministry slide">
-
-                            →
-
-                        </button>
-
-                    </div>
-
-                    <p class="placeholder-note">
-                        Replace the placeholders with approved
-                        ministry photographs.
-                    </p>
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-        <!-- PURCHASE CTA -->
-        <section class="purchase-section">
-
-            <div class="container purchase-content">
-
-                <span class="purchase-star">✦</span>
-
-                <p class="eyebrow">
-                    YOUR NEXT CHAPTER STARTS HERE
-                </p>
-
-                <h2>
-                    Are You Ready to Discover<br>
-                    What You Were Made <em>For?</em>
-                </h2>
-
-                <p>
-                    Take the next step in your journey of purpose
-                    with Made for More: Discovering God's Purpose
-                    for Your Life.
-                </p>
-
-                <a href="https://selar.com/z09ro51557"
-                   target="_blank"
-                   rel="noopener noreferrer"
-                   class="button button-gold">
-
-                    Get Your Copy on Selar ↗
-
-                </a>
-
-            </div>
-
-        </section>
-
-    </main>
-
-
-    <!-- FOOTER AND CONTACT -->
-    <footer class="footer" id="contact">
-
-        <div class="container footer-grid">
-
-            <div class="footer-brand">
-
-                <a href="#home" class="brand">
-
-                    <span class="brand-title">
-                        MADE FOR MORE
-                    </span>
-
-                    <span class="brand-subtitle">
-                        DANIEL O. UKAEGBU
-                    </span>
-
-                </a>
-
-                <p>
-                    Discover your purpose.
-                    Embrace your calling.
-                    Live with intention.
-                </p>
-
-            </div>
-
-
-            <div class="footer-column">
-
-                <h3>Explore</h3>
-
-                <a href="#book">The Book</a>
-
-                <a href="#author">The Author</a>
-
-                <a href="#testimonies">Testimonies</a>
-
-                <a href="#ministry">Ministry Gallery</a>
-
-            </div>
-
-
-            <div class="footer-column">
-
-                <h3>Connect</h3>
-
-                <a href="mailto:danielukaegbu19@gmail.com">
-                    Email Daniel
-                </a>
-
-                <a href="https://www.facebook.com/share/1D8obqPqcH/?mibextid=wwXIfr"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    Facebook ↗
-                </a>
-
-                <a href="https://wa.link/zabbn2"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    WhatsApp ↗
-                </a>
-
-                <a href="https://www.tiktok.com/@danielukaegbu925?_r=1&_t=ZS-9AR7WXQYzPL"
-                   target="_blank"
-                   rel="noopener noreferrer">
-                    TikTok ↗
-                </a>
-
-            </div>
-
-
-            <div class="footer-column">
-
-                <h3>Get the Book</h3>
-
-                <p>
-                    Ready to explore your purpose?
-                </p>
-
-                <a href="https://selar.com/z09ro51557"
-                   target="_blank"
-                   rel="noopener noreferrer"
-                   class="button button-gold">
-
-                    Buy on Selar ↗
-
-                </a>
-
-            </div>
-
-        </div>
-
-
-        <div class="container footer-bottom">
-
-            <p>
-                © <span id="year"></span>
-                Daniel O. Ukaegbu. All rights reserved.
-            </p>
-
-            <a href="#home">Back to top ↑</a>
-
-        </div>
-
-    </footer>
-
-</body>
-
-</html>
+/* =========================================
+   MADE FOR MORE
+   Main Stylesheet
+========================================= */
+
+:root {
+    --cream: #f7f3e9;
+    --paper: #fffdf7;
+
+    --green: #173d32;
+    --green-dark: #102d25;
+
+    --gold: #c6a15a;
+    --gold-light: #e8d6a9;
+
+    --text: #202820;
+    --muted: #6f756d;
+
+    --border: rgba(23, 61, 50, 0.15);
+
+    --serif: "Playfair Display", Georgia, serif;
+    --sans: "DM Sans", Arial, sans-serif;
+}
+
+
+/* RESET */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 95px;
+}
+
+body {
+    font-family: var(--sans);
+    background: var(--paper);
+    color: var(--text);
+    line-height: 1.7;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+button {
+    font: inherit;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+.container {
+    width: min(1160px, calc(100% - 48px));
+    margin-inline: auto;
+}
+
+.section {
+    padding: 100px 0;
+}
+
+h1,
+h2,
+h3 {
+    font-family: var(--serif);
+    font-weight: 500;
+    line-height: 1.15;
+}
+
+h1 em,
+h2 em,
+h3 em {
+    color: var(--gold);
+    font-weight: 400;
+}
+
+.eyebrow {
+    color: #9a793e;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.17em;
+    margin-bottom: 20px;
+}
+
+.button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 22px;
+    border-radius: 3px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    border: 1px solid transparent;
+    transition: 0.25s ease;
+}
+
+.button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 25px #0002;
+}
+
+.button-gold {
+    background: var(--gold);
+    color: var(--green-dark);
+}
+
+.button-gold:hover {
+    background: #dfbf7c;
+}
+
+.button-green {
+    background: var(--green);
+    color: white;
+}
+
+.button-green:hover {
+    background: #245747;
+}
+
+.text-link {
+    color: var(--green);
+    font-size: 0.84rem;
+    font-weight: 700;
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 5px;
+}
+
+:focus-visible {
+    outline: 3px solid var(--gold);
+    outline-offset: 4px;
+}
+
+
+/* =========================================
+   NAVIGATION
+========================================= */
+
+.site-header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+
+    background: rgba(255, 253, 247, 0.96);
+    backdrop-filter: blur(14px);
+
+    border-bottom: 1px solid #173d3210;
+}
+
+.nav-container {
+    min-height: 86px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 25px;
+}
+
+.brand {
+    display: inline-flex;
+    flex-direction: column;
+    line-height: 1.2;
+}
+
+.brand-title {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 1.08rem;
+    letter-spacing: 0.08em;
+    color: var(--green);
+}
+
+.brand-subtitle {
+    font-size: 0.6rem;
+    letter-spacing: 0.2em;
+    color: #947641;
+    margin-top: 7px;
+    font-weight: 700;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 23px;
+    font-size: 0.82rem;
+    font-weight: 600;
+}
+
+.navigation > a:not(.nav-button):hover {
+    color: #a17c38;
+}
+
+.nav-button {
+    background: var(--green);
+    color: white;
+    padding: 12px 17px;
+    border-radius: 3px;
+}
+
+.nav-button:hover {
+    background: #245747;
+}
+
+.menu-toggle {
+    display: none;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+.menu-toggle span {
+    display: block;
+    width: 25px;
+    height: 2px;
+    background: var(--green);
+    margin: 6px;
+    transition: 0.25s;
+}
+
+
+/* =========================================
+   HERO SECTION
+========================================= */
+
+.hero {
+    background:
+        radial-gradient(
+            ellipse at 85% 50%,
+            rgba(232, 214, 169, 0.25),
+            transparent 45%
+        ),
+        var(--cream);
+
+    padding: 85px 0;
+    overflow: hidden;
+}
+
+.hero-container {
+    display: grid;
+    grid-template-columns: 1.05fr 0.95fr;
+    align-items: center;
+    gap: 55px;
+}
+
+.hero-content {
+    max-width: 590px;
+}
+
+.hero h1 {
+    font-size: clamp(3.4rem, 6vw, 6rem);
+    color: var(--green);
+    letter-spacing: -0.04em;
+    margin-bottom: 25px;
+}
+
+.hero-book-title {
+    color: var(--green);
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+}
+
+.hero-subtitle {
+    font-family: var(--serif);
+    color: #676a5f;
+    font-size: 1.3rem;
+    font-style: italic;
+    margin: 5px 0 18px;
+}
+
+.hero-description {
+    color: var(--muted);
+    max-width: 460px;
+    margin-bottom: 28px;
+}
+
+.hero-buttons {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.hero-note {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-top: 40px;
+    color: var(--muted);
+    font-size: 0.77rem;
+}
+
+.hero-note span {
+    color: var(--gold);
+    font-size: 1.5rem;
+}
+
+
+/* HERO BOOK DESIGN */
+
+.hero-visual {
+    position: relative;
+
+    display: grid;
+    place-items: center;
+
+    min-height: 490px;
+}
+
+.hero-orbit {
+    position: absolute;
+    aspect-ratio: 1;
+    border: 1px solid #b18f4a47;
+    border-radius: 50%;
+}
+
+.orbit-one {
+    width: 420px;
+}
+
+.orbit-two {
+    width: 510px;
+    border-style: dashed;
+    opacity: 0.6;
+}
+
+.hero-book {
+    position: relative;
+    z-index: 2;
+    transform: rotate(10deg);
+}
+
+.book-cover {
+    width: 250px;
+    min-height: 290px;
+    padding: 20px 25px 25px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    text-align: center;
+
+    color: #f8f0d9;
+
+    background:
+        linear-gradient(
+            145deg,
+            #245343,
+            #123329 65%,
+            #0e281f
+        );
+
+    border-left: 9px solid #0d281f;
+
+    box-shadow: 2px 24px 35px #132b213f;
+
+    position: relative;
+}
+
+.book-cover::before {
+    content: "";
+
+    position: absolute; 
+    inset: 12px;
+
+     
+
+    border: 1px solid #dcbd7770;
+}
+
+.cover-kicker {
+    font-size: 0.55rem;
+    letter-spacing: 0.2em;
+    margin: 7px 0 22px;
+}
+
+.book-cover h2 {
+    font-size: 3.1rem;
+    line-height: 0.92;
+    letter-spacing: 0.02em;
+    font-weight: 700;
+}
+
+.book-cover h2 em {
+    color: var(--gold-light);
+}
+
+.cover-divider {
+    height: 1px;
+    width: 50px;
+    background: var(--gold);
+    margin: 23px 0 15px;
+}
+
+.book-cover > p {
+    font-size: 0.56rem;
+    letter-spacing: 0.12em;
+    line-height: 1.7;
+}
+
+.cover-author {
+    margin-top: auto;
+    padding-top: 25px;
+    font-size: 0.6rem;
+    letter-spacing: 0.16em;
+}
+
+.hero-stamp {
+    position: absolute;
+    z-index: 3;
+
+    right: 0;
+    bottom: 35px;
+
+    width: 115px;
+    height: 115px;
+
+    border: 1px solid var(--gold);
+    outline: 1px solid #c6a15a73;
+    outline-offset: 5px;
+
+    border-radius: 50%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background: var(--cream);
+    color: var(--green);
+
+    transform: rotate(10deg);
+}
+
+.hero-stamp span {
+    font-size: 0.55rem;
+    letter-spacing: 0.2em;
+}
+
+.hero-stamp strong {
+    font-family: var(--serif);
+    font-size: 1rem;
+    line-height: 1.1;
+    text-align: center;
+}
+
+
+/* =========================================
+   INTRO STRIP
+========================================= */
+
+.intro-strip {
+    background: var(--green);
+    color: #fff9e9;
+}
+
+.intro-inner {
+    min-height: 90px;
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.gold-star {
+    color: var(--gold-light);
+    font-size: 1.7rem;
+}
+
+.intro-inner p {
+    flex: 1;
+    font-family: var(--serif);
+    font-size: 1.2rem;
+}
+
+.intro-inner em {
+    color: var(--gold-light);
+}
+
+.intro-inner a {
+    color: var(--gold-light);
+    font-size: 0.78rem;
+    font-weight: 700;
+}
+
+
+/* =========================================
+   SECTION HEADINGS
+========================================= */
+
+.section-content h2,
+.author-content h2,
+.center-heading h2,
+.ministry-heading h2 {
+    font-size: clamp(2.6rem, 4.5vw, 4.2rem);
+    color: var(--green);
+    margin-bottom: 22px;
+}
+
+.section-description {
+    color: var(--muted);
+    margin-bottom: 30px;
+    max-width: 500px;
+}
+
+.section-description strong {
+    color: var(--green);
+}
+
+
+/* =========================================
+   SLIDESHOW ENGINE STYLES
+========================================= */
+
+.slideshow {
+    position: relative;
+    min-width: 0;
+}
+
+.slides {
+    position: relative;
+}
+
+.slide {
+    display: none;
+    animation: slideFade 0.65s ease;
+}
+
+.slide.is-active {
+    display: block;
+}
+
+@keyframes slideFade {
+    from {
+        opacity: 0.3;
+        transform: translateY(8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.slide-caption {
+    text-align: center;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-top: 13px;
+}
+
+.slide-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    margin-top: 18px;
+}
+
+.slide-arrow {
+    width: 36px;
+    height: 36px;
+
+    display: grid;
+    place-items: center;
+
+    border: 1px solid var(--border);
+    border-radius: 50%;
+
+    background: transparent;
+    color: var(--green);
+
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.slide-arrow:hover {
+    background: var(--green);
+    color: white;
+}
+
+.slide-dots {
+    display: flex;
+    gap: 7px;
+    align-items: center;
+}
+
+.slide-dot {
+    width: 7px;
+    height: 7px;
+    padding: 0;
+
+    border: 0;
+    border-radius: 50%;
+
+    background: #c8c8bb;
+    cursor: pointer;
+}
+
+.slide-dot[aria-current="true"] {
+    width: 21px;
+    border-radius: 8px;
+    background: var(--gold);
+}
+
+.placeholder-note {
+    text-align: center;
+    color: #898a7c;
+    font-size: 0.68rem;
+    margin-top: 12px;
+}
+
+
+/* =========================================
+   BOOK SLIDESHOW
+========================================= */
+
+.book-section {
+    background: var(--paper);
+}
+
+.book-layout {
+    display: grid;
+    grid-template-columns: 0.85fr 1.15fr;
+    align-items: center;
+    gap: 85px;
+}
+
+.book-slide {
+    min-height: 390px;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    position: relative;
+    overflow: hidden;
+
+    color: #fff7e4;
+    box-shadow: 0 24px 60px #1a2a201f;
+}
+
+.book-slide::after {
+    content: "";
+
+    position: absolute;
+    inset: 15px;
+
+    border: 1px solid #e7cf958c;
+    pointer-events: none;
+}
+
+.book-slide-one {
+    background:
+        radial-gradient(circle at 90% 10%, #47725b, transparent 40%),
+        linear-gradient(135deg, #1f4a39, #0e2c22);
+}
+
+.book-slide-two {
+    background:
+        radial-gradient(circle at 15% 85%, #9a7b43, transparent 40%),
+        linear-gradient(140deg, #263d30, #172b22);
+}
+
+.book-slide-three {
+    background:
+        radial-gradient(circle at 90% 80%, #5b7250, transparent 45%),
+        linear-gradient(135deg, #203e31, #0c2b22);
+}
+
+.slide-kicker {
+    font-size: 0.62rem;
+    letter-spacing: 0.18em;
+    color: var(--gold-light);
+    margin-bottom: 20px;
+}
+
+.book-slide h3 {
+    font-size: clamp(2.8rem, 5vw, 4.3rem);
+    line-height: 0.97;
+    letter-spacing: -0.02em;
+}
+
+.book-slide h3 em {
+    color: var(--gold-light);
+}
+
+.slide-divider {
+    width: 55px;
+    height: 1px;
+    background: var(--gold);
+    margin: 22px 0 15px;
+}
+
+.book-slide > p {
+    font-size: 0.78rem;
+    letter-spacing: 0.06em;
+}
+
+.slide-author {
+    margin-top: 25px;
+    font-size: 0.62rem;
+    letter-spacing: 0.18em;
+    color: var(--gold-light);
+}
+
+
+/* BOOK BENEFITS */
+
+.book-benefits {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+
+    margin-top: 80px;
+    padding-top: 35px;
+
+    border-top: 1px solid var(--border);
+}
+
+.benefit-number {
+    display: block;
+    font-family: var(--serif);
+    font-size: 1.5rem;
+    color: #a47e3c;
+    margin-bottom: 12px;
+}
+
+.book-benefits h3 {
+    font-size: 1.3rem;
+    color: var(--green);
+    margin-bottom: 12px;
+}
+
+.book-benefits p {
+    font-size: 0.85rem;
+    color: var(--muted);
+}
+
+
+/* =========================================
+   AUTHOR SECTION
+========================================= */
+
+.author-section {
+    background: var(--cream);
+}
+
+.author-layout {
+    display: grid;
+    grid-template-columns: 0.95fr 1.05fr;
+    align-items: center;
+    gap: 80px;
+}
+
+.author-slide {
+    min-height: 480px;
+    max-height: 480px;
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    text-align: center;
+
+    color: #f8f0d9;
+    overflow: hidden;
+    position: relative;
+}
+
+.author-slide::before,
+.author-slide::after {
+    content: "";
+
+    position: absolute;
+    width: 300px;
+    height: 300px;
+
+    border: 1px solid #debe7873;
+    border-radius: 50%;
+}
+
+.author-slide::after {
+    width: 380px;
+    height: 380px;
+    border-style: dashed;
+}
+
+.author-slide-one {
+    background:
+        radial-gradient(circle at 50% 30%, #718b70, transparent 38%),
+        linear-gradient(145deg, #254a3a, #102c22);
+}
+
+.author-slide-two {
+    background:
+        radial-gradient(circle at 20% 90%, #a3864b, transparent 45%),
+        linear-gradient(145deg, #3e5743, #152f25);
+}
+
+.author-slide-three {
+    background:
+        radial-gradient(circle at 80% 15%, #6d8060, transparent 45%),
+        linear-gradient(145deg, #193a2d, #0d281f);
+}
+
+.author-initial {
+    z-index: 1;
+    font-family: var(--serif);
+    font-size: 6rem;
+    color: var(--gold-light);
+    line-height: 1.2;
+}
+
+.author-slide h3 {
+    z-index: 1;
+    margin-top: 15px;
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    letter-spacing: 0.17em;
+}
+
+.author-slide p {
+    z-index: 1;
+    font-size: 0.72rem;
+    color: #d7d9c9;
+    margin-top: 12px;
+}
+
+.author-content blockquote {
+    font-family: var(--serif);
+    font-size: 1.35rem;
+    line-height: 1.5;
+    color: #7d693f;
+
+    border-left: 2px solid var(--gold);
+
+    padding-left: 20px;
+    margin: 25px 0;
+}
+
+.author-content > p:not(.eyebrow) {
+    font-size: 0.88rem;
+    color: #626a60;
+    margin-bottom: 16px;
+}
+
+.author-content .text-link {
+    display: inline-block;
+    margin-top: 12px;
+}
+
+
+/* =========================================
+   TESTIMONIES
+========================================= */
+
+.testimonies-section {
+    background: var(--paper);
+}
+
+.center-heading {
+    max-width: 720px;
+    text-align: center;
+    margin: 0 auto 50px;
+}
+
+.center-heading .eyebrow {
+    text-align: center;
+}
+
+.center-heading p:last-child {
+    color: var(--muted);
+}
+
+.testimony-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px;
+}
+
+.testimony-card {
+    background: var(--cream);
+    border: 1px solid #173d3214;
+    padding: 30px 27px;
+
+    min-height: 370px;
+
+    display: flex;
+    flex-direction: column;
+
+    transition: 0.25s ease;
+}
+
+.testimony-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 18px 35px #16312317;
+}
+
+.testimony-card.featured {
+    background: var(--green);
+    color: white;
+}
+
+.quote-mark {
+    font-family: var(--serif);
+    font-size: 4.5rem;
+    line-height: 0.9;
+    color: var(--gold);
+}
+
+.testimony-location {
+    font-size: 0.62rem;
+    letter-spacing: 0.15em;
+    font-weight: 700;
+    color: #a17d3e;
+    margin: 12px 0;
+}
+
+.testimony-card h3 {
+    font-family: var(--serif);
+    font-size: 1.4rem;
+    line-height: 1.3;
+    color: var(--green);
+    margin-bottom: 14px;
+}
+
+.testimony-card.featured h3 {
+    color: #fff8e9;
+}
+
+.testimony-card > p:not(.testimony-location) {
+    color: #697066;
+    font-size: 0.82rem;
+    margin-bottom: 13px;
+}
+
+.testimony-card.featured > p:not(.testimony-location) {
+    color: #dce3d8;
+}
+
+.testimony-footer {
+    margin-top: auto;
+    padding-top: 20px;
+    font-family: var(--serif);
+    font-size: 0.9rem;
+    font-style: italic;
+    color: #99753a;
+}
+
+.testimony-disclaimer {
+    max-width: 820px;
+    margin: 25px auto 0;
+    text-align: center;
+    color: #85877b;
+    font-size: 0.72rem;
+}
+
+
+/* =========================================
+   MINISTRY GALLERY
+========================================= */
+
+.ministry{
+    width: 100rem;
+}
+
+.ministry-section {
+    background: var(--cream);
+}
+
+.ministry-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    gap: 40px;
+    margin-bottom: 42px;
+}
+
+.ministry-heading h2 {
+    margin-bottom: 0;
+}
+
+.ministry-heading > p {
+    color: var(--muted);
+    max-width: 400px;
+}
+
+.ministry-slide {
+    min-height: 390px;
+    padding: 50px 50px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+
+    position: relative;
+    overflow: hidden;
+
+    color: #fff6e2;
+}
+
+.ministry-slide::after {
+    content: "";
+
+    position: absolute;
+    width: 390px;
+    height: 390px;
+
+    right: -100px;
+    top: -150px;
+
+    border: 1px solid #e2c58359;
+    border-radius: 50%;
+
+    box-shadow:
+        0 0 0 35px #e2c5830a,
+        0 0 0 70px #e2c5830a;
+}
+
+.ministry-one {
+    background:
+        linear-gradient(120deg, #0f2b20f2, #1b4a35d9),
+        #173d32;
+}
+
+.ministry-two {
+    background:
+        linear-gradient(120deg, #243527f2, #70572ebf),
+        #344b38;
+}
+
+.ministry-three {
+    background:
+        linear-gradient(120deg, #0f2b20eb, #596945db),
+        #31513b;
+}
+
+.ministry-four {
+    background:
+        linear-gradient(120deg, #183126f5, #494e30db),
+        #273e30;
+}
+
+.ministry-number {
+    z-index: 1;
+    color: var(--gold-light);
+    font-size: 0.67rem;
+    letter-spacing: 0.2em;
+    margin-bottom: 23px;
+}
+
+.ministry-slide h3 {
+    z-index: 1;
+    font-size: clamp(2.7rem, 5vw, 5rem);
+    line-height: 1;
+}
+
+.ministry-slide h3 em {
+    color: var(--gold-light);
+}
+
+.ministry-slide > p {
+    z-index: 1;
+    color: #d8ddcf;
+    font-size: 0.76rem;
+    margin-top: 25px;
+}
+
+
+/* =========================================
+   PURCHASE SECTION
+========================================= */
+
+.purchase-section {
+    position: relative;
+    overflow: hidden;
+
+    padding: 100px 0;
+
+    text-align: center;
+
+    background: var(--green);
+    color: #fff8e9;
+}
+
+.purchase-content {
+    position: relative;
+    z-index: 1;
+}
+
+.purchase-star {
+    display: block;
+    font-size: 2rem;
+    color: var(--gold-light);
+    margin-bottom: 15px;
+}
+
+.purchase-section .eyebrow {
+    color: var(--gold-light);
+}
+
+.purchase-section h2 {
+    color: #fff8e9;
+    font-size: clamp(2.5rem, 4.5vw, 4.3rem);
+    margin-bottom: 25px;
+}
+
+.purchase-section h2 em {
+    color: var(--gold-light);
+}
+
+.purchase-section p:not(.eyebrow) {
+    max-width: 600px;
+    margin: 0 auto 28px;
+    color: #d8e0d5;
+    font-size: 0.92rem;
+}
+
+
+/* =========================================
+   FOOTER
+========================================= */
+
+.footer {
+    background: var(--green-dark);
+    color: #f5f0e4;
+}
+
+.footer-grid {
+    display: grid;
+    grid-template-columns: 1.3fr 0.7fr 0.8fr 1fr;
+    gap: 40px;
+
+    padding-top: 65px;
+    padding-bottom: 55px;
+}
+
+.footer .brand-title {
+    color: #fff8e9;
+}
+
+.footer .brand-subtitle {
+    color: var(--gold-light);
+}
+
+.footer-brand > p {
+    color: #bdc9bd;
+    font-size: 0.82rem;
+    margin-top: 20px;
+    max-width: 260px;
+}
+
+.footer-column {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.footer-column h3 {
+    font-family: var(--serif);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--gold-light);
+    margin-bottom: 8px;
+}
+
+.footer-column > a:not(.button) {
+    font-size: 0.78rem;
+    color: #c5cec3;
+}
+
+.footer-column > a:hover {
+    color: white;
+}
+
+.footer-column > p {
+    font-size: 0.78rem;
+    color: #c5cec3;
+}
+
+.footer-bottom {
+    border-top: 1px solid #ffffff21;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    gap: 20px;
+
+    padding-top: 20px;
+    padding-bottom: 22px;
+
+    font-size: 0.72rem;
+    color: #9eafa1;
+}
+
+.footer-bottom a {
+    color: var(--gold-light);
+}
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 1000px) {
+
+    .navigation {
+        gap: 13px;
+        font-size: 0.75rem;
+    }
+
+    .hero-container {
+        gap: 30px;
+    }
+
+    .book-layout,
+    .author-layout {
+        gap: 45px;
+    }
+
+    .footer-grid {
+        gap: 25px;
+    }
+}
+
+
+/* =========================================
+   MOBILE NAVIGATION AND TABLET LAYOUT
+========================================= */
+
+@media (max-width: 800px) {
+
+    .section {
+        padding: 75px 0;
+    }
+
+    .nav-container {
+        min-height: 76px;
+    }
+
+    .menu-toggle {
+        display: block;
+        z-index: 102;
+        padding: 8px;
+    }
+
+    .navigation {
+        display: none;
+
+         
+        inset: 76px 0 0;
+
+        background: var(--paper);
+
+        padding: 25px 24px 40px;
+
+        flex-direction: column;
+        align-items: stretch;
+
+        gap: 0;
+        overflow-y: auto;
+
+        font-size: 1rem;
+    }
+
+    .navigation.is-open {
+        display: flex;
+    }
+
+    .navigation > a:not(.nav-button) {
+        padding: 15px 0;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .navigation .nav-button {
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .menu-toggle[aria-expanded="true"] span:nth-child(1) {
+        transform: translateY(8px) rotate(45deg);
+    }
+
+    .menu-toggle[aria-expanded="true"] span:nth-child(2) {
+        opacity: 0;
+    }
+
+    .menu-toggle[aria-expanded="true"] span:nth-child(3) {
+        transform: translateY(-8px) rotate(-45deg);
+    }
+
+    .hero {
+        padding: 65px 0;
+    }
+
+    .hero-container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .hero-content {
+        max-width: 680px;
+    }
+
+    .hero-visual {
+        min-height: 440px;
+    }
+
+    .book-layout,
+    .author-layout {
+        grid-template-columns: 1fr;
+        gap: 40px;
+    }
+
+    .book-layout .slideshow,
+    .author-layout .slideshow {
+        width: min(100%, 600px);
+        margin-inline: auto;
+    }
+
+    .book-benefits {
+        margin-top: 55px;
+    }
+
+    .testimony-grid {
+        grid-template-columns: 1fr;
+        max-width: 620px;
+        margin-inline: auto;
+    }
+
+    .testimony-card {
+        min-height: auto;
+    }
+
+    .ministry-heading {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 18px;
+    }
+
+    .footer-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+/* =========================================
+   SMALL MOBILE
+========================================= */
+
+@media (max-width: 540px) {
+
+    .container {
+        width: calc(100% - 32px);
+    }
+
+    .section {
+        padding: 60px 0;
+    }
+
+    .brand-title {
+        font-size: 0.95rem;
+    }
+
+    .brand-subtitle {
+        font-size: 0.53rem;
+    }
+
+    .hero h1 {
+        font-size: clamp(3.1rem, 15vw, 4.4rem);
+    }
+
+    .section-content h2,
+    .author-content h2,
+    .center-heading h2,
+    .ministry-heading h2 {
+        font-size: clamp(2.5rem, 11vw, 3.4rem);
+    }
+
+    .hero-visual {
+        min-height: 380px;
+    }
+
+    .book-cover {
+        width: 225px;
+        min-height: 330px;
+        padding: 26px 20px 20px;
+    }
+
+    .book-cover h2 {
+        font-size: 2.65rem;
+    }
+
+    .orbit-one {
+        width: 320px;
+    }
+
+    .orbit-two {
+        width: 380px;
+    }
+
+    .hero-stamp {
+        right: 0;
+        bottom: 20px;
+        width: 90px;
+        height: 90px;
+    }
+
+    .hero-stamp strong {
+        font-size: 0.82rem;
+    }
+
+    .intro-inner {
+        flex-wrap: wrap;
+        gap: 8px 14px;
+        padding: 18px 0;
+    }
+
+    .intro-inner p {
+        flex-basis: calc(100% - 40px);
+        font-size: 1.05rem;
+    }
+
+    .intro-inner a {
+        margin-left: 38px;
+    }
+
+    .hero-buttons {
+        gap: 18px;
+    }
+
+    .book-benefits {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+
+    .book-slide {
+        min-height: 330px;
+        padding: 32px;
+    }
+
+    .book-slide h3 {
+        font-size: 2.8rem;
+    }
+
+    .author-slide {
+        min-height: 380px;
+    }
+
+    .ministry-slide {
+        min-height: 320px;
+        padding: 32px;
+    }
+
+    .ministry-slide h3 {
+        font-size: clamp(2.4rem, 12vw, 3.8rem);
+    }
+
+    .purchase-section {
+        padding: 75px 0;
+    }
+
+    .footer-grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+        padding-top: 50px;
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+
+}
+
+
+/* RESPECT ACCESSIBILITY SETTINGS */
+
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        scroll-behavior: auto !important;
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+
+}
